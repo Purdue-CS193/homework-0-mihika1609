@@ -3,5 +3,6 @@
 ## Why I love CS 19300
 - It gives me useful information for future CS classes
 - It's a pretty straightforward class (so far)
-- It gives me credit 
+- The instructors are great
+- :>
 
